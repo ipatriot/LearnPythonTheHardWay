@@ -10,3 +10,4 @@ in_file = open(from_file)
 indate = infile.read()
 
 print "The input file is %d bytes long" % len(data)
+
